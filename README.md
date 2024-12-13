@@ -15,7 +15,8 @@ USER: silvanalimapontes8@hotmail.com
 PASSWORD: 384910954114
 ```
 
-![exemple](https://github.com/user-attachments/assets/c217d625-44ef-462a-8e7b-de57f4f220fe)
+![exemple](https://github.com/user-attachments/assets/f2d33c98-7ec3-4c8b-823a-6ca6b48fc8ca)
+
 
 ## **And organize them into a cleaner format like:**
 
@@ -25,7 +26,8 @@ fflavindupeneu@gmail.com:sms808808
 silvanalimapontes8@hotmail.com:anotherpassword
 ```
 
-![exemple2](https://github.com/user-attachments/assets/5f16686e-ed4d-4071-99eb-b0e4a2da527f)
+![exemple2](https://github.com/user-attachments/assets/48999b9c-0720-4929-809b-597da7e47e35)
+
 
 # How to use:
 
