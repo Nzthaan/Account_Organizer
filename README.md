@@ -3,11 +3,11 @@
 ## **This Python script is designed to read user data from a text file and format it into a more structured `email:password` format. The script processes an input file where each user’s email and password are given in the format:**
 
 ```
-URL: si-pni.saude.gov.br/
+URL: si-pni.saudi.gordo.br/
 USER: fflavindupeneu@gmail.coM
 PASSWORD: sms808808
 
-URL: si-pni.saude.gov.br/
+URL: si-pni.saudi.gordo.br/
 USER: silvanalimapontes8@hotmail.com
 PASSWORD: 384910954114
 ```
@@ -76,6 +76,10 @@ sudo apt install python3
 sudo apt install python3-pip
 ```
 
+```
+pip3 install -r requirements.txt
+```
+
 ### Git Clone
 
 ```
@@ -84,6 +88,7 @@ git clone https://github.com/DanielSantzs/account_organizer/
 ```
 cd ccount_organizer 
 ```
+
 ```
 python Organize_Accounts.py
 ```
@@ -93,6 +98,18 @@ python Organize_Accounts.py
 # Video Tutorial
 
 **soon..**
+
+## Contact
+
+For any questions or support, feel free to reach out to me:
+
+- **Instagram**: [@1925days](https://www.instagram.com/1925days/)
+- **Email**: [DanielSantzs18@gmail.com](mailto:mailto:DanielSantzs18@gmail.com)
+- **Discord**: [@DanielSantzs](https://discord.com/users/1283088407052156982)
+- **Telegram**: [@DanielSantzs](https://t.me/@DanielSantzs)
+
+
+
 
 
 
