@@ -47,8 +47,6 @@ This script is ideal for organizing login data quickly and conveniently, especia
 
 # Install in Windows 
 
-## Requiriments
-
 ### Python (obvius)
 
 [Python download here](https://www.python.org/downloads/)
