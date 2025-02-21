@@ -1,6 +1,7 @@
 # **User Data Organizer Script**
 
-![Screenshot_8](https://github.com/user-attachments/assets/34f7655f-cef6-40b1-b4b9-45d2238c7ee8)
+![395685597-34f7655f-cef6-40b1-b4b9-45d2238c7ee8](https://github.com/user-attachments/assets/190b9f3e-2dcb-4137-b9fe-4b7fffd4c635)
+
 
 
 ## **This Python script is designed to read user data from a text file and format it into a more structured `email:password` format. The script processes an input file where each user’s email and password are given in the format:**
